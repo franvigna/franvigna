@@ -1,0 +1,30 @@
+
+.titulo{
+  color:black;
+  padding-top: 20px;
+  margin-bottom: -65px;
+  font: 130% sans-serif;
+}
+.subtitulo{
+  font-size: 16px;
+  position:relative;
+  padding-top: 70px;
+  padding-left: 180px;
+  font: oblique bold 120% cursive;
+  font-weight: 100;
+}
+.tabla{
+  font-family: sans-serif;
+}
+body{
+    border: 5px solid black;
+    font-family: sans-serif;
+}
+
+footer{
+  padding-right: 10px;
+}
+.image-fondo {
+  background-image: url("https://thumbs.dreamstime.com/b/grunge-textura-blanca-y-negra-sin-margen-ejemplo-de-patr%C3%B3n-superposici%C3%B3n-climas-oscuros-fondo-pantalla-ancha-plano-superior-164837462.jpg");
+
+}
