@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Francisco Vignardel
+# ¡Hola! Soy Francisco Vignardel
 
 Soy estudiante de **Ingeniería en Informática** con una fuerte vocación por el desarrollo de software y el análisis lógico. Me apasiona entender cómo funcionan las cosas y convertir ideas en soluciones concretas a través del código.
 
@@ -6,7 +6,7 @@ Actualmente me desempeño como **Desarrollador en Circo Studio**, colaborando en
 
 ---
 
-## 🧠 Tecnologías que uso frecuentemente
+## Tecnologías que uso frecuentemente
 
 - 💻 **Lenguajes**: JavaScript, TypeScript, Python, C, SQL
 - 🌐 **Frontend**: React, Next.js, HTML, CSS, Tailwind
