@@ -16,7 +16,7 @@ Actualmente me desempeño como **Desarrollador en Circo Studio**, colaborando en
 
 ---
 
-## 🚀 Algunos de mis proyectos destacados
+## Algunos de mis proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
@@ -25,11 +25,11 @@ Actualmente me desempeño como **Desarrollador en Circo Studio**, colaborando en
 | **[Circo-Studia](https://github.com/franvigna/Circo-Studia)** | App interna para gestionar materias de estudiantes en Circo Studio | SPFx · React · SharePoint · PnPjs |
 | **[TrainingJsTs](https://github.com/franvigna/TrainingJsTs)** | Guía paso a paso para aprender JS y TS desde cero | HTML · JS · TS |
 
-> 👉 También tengo varios proyectos académicos, experimentales y de práctica personal. Podés explorarlos más abajo.
+> También tengo varios proyectos académicos, experimentales y de práctica personal. Podés explorarlos más abajo.
 
 ---
 
-## 📈 En constante aprendizaje
+## En constante aprendizaje
 
 Estoy en una etapa de crecimiento continuo, combinando mis estudios universitarios con proyectos reales y desafíos técnicos. Me interesa especialmente:
 
@@ -39,7 +39,7 @@ Estoy en una etapa de crecimiento continuo, combinando mis estudios universitari
 
 ---
 
-## 🌐 Podés encontrarme en otros espacios
+## Podés encontrarme en otros espacios
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/franciscovignardel/)
 - 🔎 [Portafolio (en construcción)](https://github.com/franvigna)
